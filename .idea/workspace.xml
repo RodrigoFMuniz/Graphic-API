@@ -733,8 +733,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cliente.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="447" column="35" lean-forward="true" selection-start-line="447" selection-start-column="35" selection-end-line="447" selection-end-column="35" />
+            <state relative-caret-position="365">
+              <caret line="444" column="44" lean-forward="true" selection-start-line="444" selection-start-column="44" selection-end-line="444" selection-end-column="44" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -766,7 +766,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="2184" />
     <option name="y" value="132" />
     <option name="width" value="1400" />
@@ -793,6 +793,11 @@
             <path>
               <item name="testegit" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="testegit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (testegit) &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
@@ -916,8 +921,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cliente.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="447" column="35" lean-forward="true" selection-start-line="447" selection-start-column="35" selection-end-line="447" selection-end-column="35" />
+        <state relative-caret-position="365">
+          <caret line="444" column="44" lean-forward="true" selection-start-line="444" selection-start-column="44" selection-end-line="444" selection-end-column="44" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
