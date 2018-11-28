@@ -1,8 +1,6 @@
 import pygame, psutil, socket, os, pickle
 import time
 
-# TP4
-
 def uso_cpu_mem_disc_ip(cpu, disco, memo, netip, interf ):
 
     pygame.init()
@@ -111,7 +109,6 @@ def uso_cpu_mem_disc_ip(cpu, disco, memo, netip, interf ):
     pygame.quit()
 
 
-#TP5
 
 def cpu_info(cpuinf, cpu_percent, cpufreqcurrent, cpufreqmax, cpucountf, cpucount, cpuper):
     pygame.init()
@@ -208,7 +205,6 @@ def cpu_info(cpuinf, cpu_percent, cpufreqcurrent, cpufreqmax, cpucountf, cpucoun
     pygame.quit()
 
 
-#tp6
 
 def checagem_dados(x):
 
@@ -274,7 +270,6 @@ def mostra_info_system(x):
         pass
 
 
-#TP7
 
 def dados_redes(x):
     redes = x # adquirindo dados das redes disponíveis
@@ -453,19 +448,7 @@ def main():
             cliente_tcp.close()
             main()
 
-            #cpu_info(cpuinf, cpu_percent, cpufreq, cpucountf, cpucount)
-
-
-
-
-
-
-
-
-
-
-
-
+            
     except Exception as err:
         print(f'Erro: {str(err)} ')
         cliente_tcp.close() #fecha conexão com o servidor
