@@ -15,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/cliente.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="5584">
-              <caret line="439" column="44" lean-forward="true" selection-start-line="439" selection-start-column="44" selection-end-line="439" selection-end-column="44" />
+              <caret line="439" column="44" selection-start-line="439" selection-start-column="44" selection-end-line="439" selection-end-column="44" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -27,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/servidor.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="960">
-              <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+              <caret line="116" selection-start-line="116" selection-end-line="116" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -48,10 +48,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2184" />
-    <option name="y" value="132" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1176" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -193,7 +193,7 @@
     <entry file="file://$PROJECT_DIR$/servidor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
-          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -203,7 +203,7 @@
     <entry file="file://$PROJECT_DIR$/cliente.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5584">
-          <caret line="439" column="44" lean-forward="true" selection-start-line="439" selection-start-column="44" selection-end-line="439" selection-end-column="44" />
+          <caret line="439" column="44" selection-start-line="439" selection-start-column="44" selection-end-line="439" selection-end-column="44" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
