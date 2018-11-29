@@ -381,7 +381,7 @@ def requisicao(entrada, cliente):
         main()
 
 
-
+#Função principal
 
 
 def main():
